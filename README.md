@@ -1,4 +1,4 @@
 # Personal Portfolio 
  
-_**Take a Glance ==> https://mahesh9340.netlify.app/  OR [PortFolio](https://mahesh9340.netlify.app/)**_
+_**Take a Glance ==> https://isagarkharat.netlify.app/  OR [PortFolio](https://isagarkharat.netlify.app/)**_
  
